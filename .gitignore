@@ -1,0 +1,4 @@
+Pipfile*
+.DS_*
+model.pkl
+/eval
